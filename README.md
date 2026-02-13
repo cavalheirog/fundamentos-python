@@ -1,12 +1,11 @@
-# Calculadora Simples em Python
+# Fundamentos de Python
 
-Projeto desenvolvido para praticar conceitos básicos de lógica de programação.
+Repositório dedicado aos meus estudos iniciais em Python, com foco em lógica de programação.
 
-## Funcionalidades
-- Soma
-- Subtração
-- Multiplicação
-- Divisão (com verificação de divisão por zero)
+## Projeto Atual
+Calculadora simples desenvolvida utilizando:
+- Entrada de dados com input()
+- Conversão de tipos (float)
+- Estruturas condicionais (if / elif / else)
 
-## Tecnologias
-- Python 3
+Projeto criado para prática acadêmica e evolução na linguagem.
