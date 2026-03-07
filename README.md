@@ -2,10 +2,18 @@
 
 Repositório dedicado aos meus estudos iniciais em Python, com foco em lógica de programação.
 
-## Projeto Atual
-Calculadora simples desenvolvida utilizando:
-- Entrada de dados com input()
-- Conversão de tipos (float)
-- Estruturas condicionais (if / elif / else)
+## Projetos
 
-Projeto criado para prática acadêmica e evolução na linguagem.
+### Calculadora Simples
+
+Calculadora desenvolvida em Python para realizar operações matemáticas básicas.
+
+
+### Sistema de Login
+
+Programa simples de login que permite um número limitado de tentativas para acessar o sistema.
+
+
+## Objetivo
+
+Praticar conceitos fundamentais da linguagem Python e desenvolver a lógica de programação através de pequenos projetos.
